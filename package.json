@@ -1,8 +1,8 @@
 {
-    "name": "vue3-editor-tiptap",
+    "name": "heditor",
     "version": "1.0.0",
     "type": "module",
-    "description": "vue3-editor is open-source document editor based on Vue3 and Tiptap.",
+    "description": "heditor is open-source document editor based on Vue3 and Tiptap.",
     "license": "MIT",
     "files": [
         "dist",
@@ -10,7 +10,7 @@
     ],
     "exports": {
         ".": {
-            "import": "./dist/vue3-editor.js"
+            "import": "./dist/heditor.js"
         },
         "./style": {
             "import": "./dist/style.css"

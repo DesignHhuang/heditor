@@ -42,7 +42,7 @@ const buildConfig = {
   lib: {
     entry: `${process.cwd()}/src/components/index.ts`,
     name: pkg.name,
-    fileName: 'vue3-editor',
+    fileName: 'heditor',
   },
   outDir: 'dist',
   copyPublicDir: false,
